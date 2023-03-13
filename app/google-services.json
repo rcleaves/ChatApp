@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859945658985",
+    "project_id": "chatapp-955c7",
+    "storage_bucket": "chatapp-955c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859945658985:android:d31be6e82c69af9bb010f8",
+        "android_client_info": {
+          "package_name": "com.droidekar.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859945658985-abrc9lrf63tpjp0nv5npfoh3mujs1n7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPd70b0YVQqSQCDHNtBfC1QH6zgNQ2dP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859945658985-abrc9lrf63tpjp0nv5npfoh3mujs1n7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
